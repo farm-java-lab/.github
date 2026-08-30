@@ -1,2 +1,3 @@
-# .github
-Kurumsal çözümlerde Java dili ile çalışma konulu dersler için açılmış açık kaynak organizasyondur.
+# Farm JAVA
+
+Kurumsal çözümlerde Java programlama dili ile çalışma konulu dersler için açılmış açık kaynak organizasyondur.
